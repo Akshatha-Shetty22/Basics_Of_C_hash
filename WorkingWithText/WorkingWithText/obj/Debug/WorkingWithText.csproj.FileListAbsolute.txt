@@ -1,0 +1,7 @@
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\BasicsOfC#\WorkingWithText\WorkingWithText\bin\Debug\WorkingWithText.exe.config
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\BasicsOfC#\WorkingWithText\WorkingWithText\bin\Debug\WorkingWithText.exe
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\BasicsOfC#\WorkingWithText\WorkingWithText\bin\Debug\WorkingWithText.pdb
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\BasicsOfC#\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.csproj.AssemblyReference.cache
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\BasicsOfC#\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.csproj.CoreCompileInputs.cache
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\BasicsOfC#\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.exe
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\BasicsOfC#\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.pdb
