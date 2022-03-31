@@ -1,0 +1,6 @@
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\BasicsOfC#\IterationDemo\IterationDemo\bin\Debug\IterationDemo.exe.config
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\BasicsOfC#\IterationDemo\IterationDemo\bin\Debug\IterationDemo.exe
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\BasicsOfC#\IterationDemo\IterationDemo\bin\Debug\IterationDemo.pdb
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\BasicsOfC#\IterationDemo\IterationDemo\obj\Debug\IterationDemo.csproj.CoreCompileInputs.cache
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\BasicsOfC#\IterationDemo\IterationDemo\obj\Debug\IterationDemo.exe
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\BasicsOfC#\IterationDemo\IterationDemo\obj\Debug\IterationDemo.pdb
