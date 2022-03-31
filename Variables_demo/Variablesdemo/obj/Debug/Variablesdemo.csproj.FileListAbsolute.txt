@@ -1,0 +1,7 @@
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\Variablesdemo\Variablesdemo\bin\Debug\Variablesdemo.exe.config
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\Variablesdemo\Variablesdemo\bin\Debug\Variablesdemo.exe
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\Variablesdemo\Variablesdemo\bin\Debug\Variablesdemo.pdb
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\Variablesdemo\Variablesdemo\obj\Debug\Variablesdemo.csproj.AssemblyReference.cache
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\Variablesdemo\Variablesdemo\obj\Debug\Variablesdemo.csproj.CoreCompileInputs.cache
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\Variablesdemo\Variablesdemo\obj\Debug\Variablesdemo.exe
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\Variablesdemo\Variablesdemo\obj\Debug\Variablesdemo.pdb
