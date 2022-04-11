@@ -1,0 +1,7 @@
+C:\Users\akshetty\Project_Files\PhaseEnd_Projects\Phase1\Working_with_Text_Files\Working_with_Text_Files\bin\Debug\Working_with_Text_Files.exe.config
+C:\Users\akshetty\Project_Files\PhaseEnd_Projects\Phase1\Working_with_Text_Files\Working_with_Text_Files\bin\Debug\Working_with_Text_Files.exe
+C:\Users\akshetty\Project_Files\PhaseEnd_Projects\Phase1\Working_with_Text_Files\Working_with_Text_Files\bin\Debug\Working_with_Text_Files.pdb
+C:\Users\akshetty\Project_Files\PhaseEnd_Projects\Phase1\Working_with_Text_Files\Working_with_Text_Files\obj\Debug\Working_with_Text_Files.csproj.AssemblyReference.cache
+C:\Users\akshetty\Project_Files\PhaseEnd_Projects\Phase1\Working_with_Text_Files\Working_with_Text_Files\obj\Debug\Working_with_Text_Files.csproj.CoreCompileInputs.cache
+C:\Users\akshetty\Project_Files\PhaseEnd_Projects\Phase1\Working_with_Text_Files\Working_with_Text_Files\obj\Debug\Working_with_Text_Files.exe
+C:\Users\akshetty\Project_Files\PhaseEnd_Projects\Phase1\Working_with_Text_Files\Working_with_Text_Files\obj\Debug\Working_with_Text_Files.pdb

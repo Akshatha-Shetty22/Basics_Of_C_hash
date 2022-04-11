@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Working_with_Text_Files", "Working_with_Text_Files\Working_with_Text_Files.csproj", "{387DB593-3246-4A5A-A6C7-3B8FDF058025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{387DB593-3246-4A5A-A6C7-3B8FDF058025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{387DB593-3246-4A5A-A6C7-3B8FDF058025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{387DB593-3246-4A5A-A6C7-3B8FDF058025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{387DB593-3246-4A5A-A6C7-3B8FDF058025}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE6BC888-581D-441C-854B-D4D68C4A2D42}
+	EndGlobalSection
+EndGlobal
